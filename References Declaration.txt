@@ -1,0 +1,9 @@
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
+
+1. https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
+
+2. http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+3. http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+4. http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
